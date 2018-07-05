@@ -1,0 +1,17 @@
+{
+  "name": "login-form",
+  "version": "1.0.0",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/http-server -a localhost -p 4040 -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
